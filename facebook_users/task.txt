@@ -1,0 +1,22 @@
+ PROJECT
+
+The task is to evaluate your coding skill level on basic data manipulation.
+
+Dataset information:
+
+In this assignment, you are going to explore an interesting dataset of Facebook users. Dataset has following fields :
+dob_bday, dob_month, dob_year,date of birth related info.tenure - how long he has been on facebook. 
+likes - number of likes he has given.
+likes_received-number of likes he has received. Other fields are self explanatory, if you have a question, please ask us.   
+  
+
+Answer the following questions: 
+1.  Which day has the highest number of birthdays ? 
+2. Who tends to have more friends by average / by median ? Males or Females ? 
+3. Which set of users have been on facebook for a long time ? 
+4. Who is most active on facebook ? Who is most active on mobile facebook ? on web facebook ? 
+5. Who is using facebook more on mobile than desktop ? 
+
+Note:to read the data
+i.Set working directory(have the data in that particular folder).
+ii.facebook_data=read.table("f",header=TRUE)
